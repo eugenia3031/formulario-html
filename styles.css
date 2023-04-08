@@ -1,0 +1,40 @@
+
+ body{
+    margin: 1rem;
+}
+
+.alert-danger {
+    color: darkred;
+}
+
+.card-footer {
+    display: inline-flex;
+}
+
+div.form-check.form-check-inline, 
+div.header {
+    margin-top: 1rem;
+}
+
+div.header {
+    margin-bottom: 1rem;
+}
+
+
+
+div.left-container {
+    background-color: gray;
+    width: 25%;
+    justify-self: left;
+    margin: 0%;
+}
+
+div.form-outline.col-6 {
+    display: flex;
+    margin-left: 50%;
+}
+
+
+
+
+
